@@ -24,7 +24,7 @@ A **MERN + Socket.io** powered **real-time chat app** with modern UI, authentica
    ```bash
    git clone https://github.com/your-username/realtime-chat-app.git
    cd realtime-chat-app
-````
+   ````
 
 2. Install dependencies:
 
